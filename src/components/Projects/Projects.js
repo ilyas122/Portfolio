@@ -48,7 +48,7 @@ function Projects() {
               imgPath={testingg}
               isBlog={false}
               title="Software QA Testing for Mobile Applications"
-              description="Led cross-functional team, evaluated 4 AI food recognition apps, achieved 82% pass rate in 200 test cases.Documented 27 critical bugs, improving app accuracy under diverse conditions and improved its accuracy."
+              description="Led cross-functional team, evaluated 4 AI food recognition apps, achieved 82% pass rate in 200 test cases. Documented 27 critical bugs, improving app accuracy under diverse conditions and improved its accuracy."
               ghLink="https://github.com/ilyas122/Software-QA-Testing-for-Mobile-Applications"
               demoLink="https://www.youtube.com/watch?v=HvjHvSrsNSE&ab_channel=MohammedIlyasAhmed"              
             />
@@ -59,7 +59,7 @@ function Projects() {
               imgPath={robot}
               isBlog={false}
               title="Robot Management System"
-              description="Enhanced user engagement by 35% via an intuitive user dashboard for robot selection and simulation.Reduced downtime by 20% using AWS CloudWatch for real-time AWS Robomaker monitoring."
+              description="Enhanced user engagement by 35% via an intuitive user dashboard for robot selection and simulation. Reduced downtime by 20% using AWS CloudWatch for real-time AWS Robomaker monitoring."
               ghLink="https://github.com/ilyas122/Robot-Management-System"
               
             />
@@ -72,7 +72,7 @@ function Projects() {
               imgPath={digit}
               isBlog={false}
               title="Handwritten Digits Recognition using ML"
-              description="Utilized SVM and CNN to achieve a global accuracy of 93.043% for classifying Handwritten Digits.Trained a model for banks and postal services using the MNIST dataset with 70,000 handwritten digits."
+              description="Utilized SVM and CNN to achieve a global accuracy of 93.043% for classifying Handwritten Digits. Trained a model for banks and postal services using the MNIST dataset with 70,000 handwritten digits."
                 ghLink="https://github.com/ilyas122/Recognition-of-Handwritten-Digits-Using-Support-Vector-Machine-and-Neural-Networks-"
               
             />
