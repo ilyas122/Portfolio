@@ -73,6 +73,7 @@ function Projects() {
               isBlog={false}
               title="Handwritten Digits Recognition using ML"
               description="Utilized SVM and CNN to achieve a global accuracy of 93.043% for classifying Handwritten Digits.Trained a model for banks and postal services using the MNIST dataset with 70,000 handwritten digits."
+                ghLink="https://github.com/ilyas122/Recognition-of-Handwritten-Digits-Using-Support-Vector-Machine-and-Neural-Networks-"
               
             />
           </Col>
